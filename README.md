@@ -1,6 +1,6 @@
-# Pagina Facil
-A Continuacion Se vera un ejemplo sobre una web-site/Sitio Web diseñado usando el lenguaje de servidor o lenguaje backend de Javascript, popularmente conocido como Nodejs, junto un motor de plantillas cuyo nombre es EJS.
-***Codigo de Nodejs***
-```Javascript
+# Calculadora sencilla/basica
+A Continuacion se vera un ejemplo sobre una calculadora que pueda realizar funciones basicas de la matematica, por ejemplo, ***sumar, restar, multiplicar y dividir***. Son funciones bastantes basica y utiles para tu primer calculadora.
+***Codigo de HTML***
+```HTML5
 
 ```
